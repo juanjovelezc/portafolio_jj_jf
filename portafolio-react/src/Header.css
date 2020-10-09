@@ -1,0 +1,38 @@
+.header {
+    display:flex;
+    justify-content: space-between;
+    position: sticky;
+    background-color:lightgray;
+    z-index: 100;
+    width: 100;
+    top: 0;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    border-radius: 2px;
+}
+
+.header > h2 {
+    background-color:lightgrey;
+    color: black;
+    margin-left: 20px;
+}
+
+.header__icon {
+    object-fit: contain;
+    height: 40px;
+    margin-left: 20px;
+  }
+  
+.header__right {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 80px;
+    background-color:lightgray;
+}
+
+.header__right > a {
+    background-color:lightgray;
+    color: black;
+    margin: 10px;
+}

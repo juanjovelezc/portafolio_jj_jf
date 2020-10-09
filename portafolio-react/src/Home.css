@@ -1,0 +1,12 @@
+.home__profiles{
+    display: flex;
+    padding: 30px;
+}
+.home__equipo {
+    display:flex;
+    justify-content: center;
+    font-size: 15px;
+    color: white;
+    background-color: #68b0ab;
+    
+}
