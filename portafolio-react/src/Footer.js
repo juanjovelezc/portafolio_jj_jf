@@ -8,7 +8,7 @@ function Footer() {
     return (
         <div className='footer'>
             <div className='footer__poweredby'>
-                <p>POWERED BY LXS CHUGXZ</p>                
+                <p>POWERED BY JJ AND JF</p>                
             <div className='footer__redes'>
                 <InstagramIcon />
                 <LinkedInIcon />
